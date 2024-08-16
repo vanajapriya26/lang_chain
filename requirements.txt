@@ -1,6 +1,6 @@
 langchain
 langchain_community
 langchain_core
-langchain_genai
+langchain-google-genai
 python-dotenv
 streamlit
