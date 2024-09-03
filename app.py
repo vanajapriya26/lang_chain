@@ -30,7 +30,7 @@ def get_response(user_query, chat_history):
     max_tokens = None,
     timeout= None,
     max_retries= 2,
-    google_api_key="AIzaSyBMSi3Bx9WqfQPHACdfdCCcGsSHBRvUieI"
+    google_api_key=""
 )
 
         
